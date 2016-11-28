@@ -1,0 +1,29 @@
+[
+	{
+		"id" : 1,
+		"qtn" : "Why this colabery D",
+		"option1" : "colabery is not A",
+		"option2" : "colabery is not B",
+		"option3" : "colabery is not C",
+		"option4" : "colabery gives vitamin D",
+		"correct" : "colabery gives vitamin D"
+	},
+	{
+		"id" : 2,
+		"qtn" : "What is your name?",
+		"option1" : "my name is ullu",
+		"option2" : "my name is vess",
+		"option3" : "my name is gadhi",
+		"option4" : "my name is gobar",
+		"correct" : "my name is gobar"
+	},
+	{
+		"id" : 3,
+		"qtn" : "dim age na murgi age",
+		"option1" : "murgi",
+		"option2" : "dim",
+		"option3" : "dim murgi same",
+		"option4" : "dim murgi keu na",
+		"correct" : "murgi"
+	}
+]

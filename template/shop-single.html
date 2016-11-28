@@ -1,0 +1,16 @@
+ 
+<div class="media" ng-repeat="single in product">
+  <div class="media-left media-middle">
+    <a href="#">
+      <img ng-src="images/{{single.image}}.jpg" alt="">
+    </a>
+  </div>
+  <div class="media-body">
+    <h3>{{ single.name }}</h3>
+    <p>{{single.description}}</p>
+    <p>{{ single.price }}</p>  
+  </div>
+</div>
+
+<a href="shop" class="btn btn-lg btn-primary"> Back </a>
+ 
